@@ -63,19 +63,4 @@ An interactive Power BI project built to analyze real-estate transactions, deals
 - The business actions above are analytical recommendations based on the visible charts, not proof of causation.
 - Do not publish real customer or employee data, credentials, or sensitive source files in a public repository. If the PBIX or source data contains private information, keep it private or publish anonymized screenshots/sample data instead.
 
-## Suggested Repository Contents
 
-```text
-nawy-real-estate-analytics/
-├── README.md
-├── screenshots/
-│   ├── overview.png
-│   ├── deals-breakdown.png
-│   ├── properties-analysis.png
-│   ├── leads-analysis.png
-│   └── security-dashboard.png
-└── report/
-    └── nawy-dashboard.pbix
-```
-
-Add only files you are permitted to share. The screenshot names and folders above are suggestions; create them if you want to use this structure.
